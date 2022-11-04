@@ -1,0 +1,9 @@
+---
+apiVersion: "1"
+id: "TOKEN"
+description: "Jenkins controller for the Embedded Monitors projects and jobs"
+version: "101"
+jcasc:
+  - "jenkins.yaml"
+items:
+  - "items.yaml"

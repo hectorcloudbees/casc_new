@@ -1,0 +1,4 @@
+jenkins:
+  systemMessage: "10:00 TOKEN"
+  numExecutors: 0
+
